@@ -41,3 +41,5 @@ The average value of each feature was taken over the 15 epochs for each wavelet 
 The data was then converted to ```5(features) * 6(wavelet coefficients) = 30``` columns for classification
 
 ## Classification
+
+Classification was done using multiple ML and DL methods which try to match state of the art accuracies. The results will be published in this repository and in a research paper for pubic use.
